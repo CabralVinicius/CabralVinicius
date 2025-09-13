@@ -2,7 +2,7 @@
 ### Hi! Im Cabral Vinicius! 😀
 #
 Currently studying Systems Analysis and Development at Universidade Presbiteriana Mackenzie
-Junior developer and student of iOS systems [Swift, SwiftUI], my life goal is to become a professional of excellence, always embarking my projects with the best technologies and performance.
+Mid developer of iOS systems [Swift, SwiftUI], my life goal is to become a professional of excellence, always embarking my projects with the best technologies and performance.
 
 Graduated in law, duly registered with the São Paulo State Bar Association, entrepreneur, owner of the company DB Conf e Com Ltda, I decided to make a career transition to the area that I am passionate about, technology!
 
