@@ -52,7 +52,6 @@
 
 ---
 
-
 #
 ### Technologies that I use in my day
   
