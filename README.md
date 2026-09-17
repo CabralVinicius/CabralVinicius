@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cabral Vinicius
 
-💻 **iOS Developer** with 2+ years of experience building **scalable** and **secure** mobile applications — currently working in the **banking sector**, one of the most demanding environments for **code quality**, **compliance**, and **confidentiality**.
+💻 **iOS Developer** with 3+ years of experience building **scalable** and **secure** mobile applications — currently working in the **banking sector**, one of the most demanding environments for **code quality**, **compliance**, and **confidentiality**.
 
 🎯 **Career Goal:** Keep growing as an iOS Engineer, delivering high-quality, secure, and innovative mobile solutions, and evolving into a **Tech Lead** role to mentor teams, guide architectural decisions, and foster innovation.
 
